@@ -184,7 +184,7 @@ footer {
 
 /* included an id to target all project cards except the first one. With these cards targeted, I make them smaller, which results in the first item being the biggest as dictated by the homework.  */
 #smaller {
-  max-width: 500git pupx;
+  max-width: 500px;
 }
 
 #aboutmehere {
