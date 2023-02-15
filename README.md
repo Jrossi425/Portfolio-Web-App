@@ -12,7 +12,7 @@ N/A
 
 To provide users with a website application that informs them of my project history. It can also inform them a little about myself and how to contact me.
 
-Link to the live site: https://jrossi425.github.io/horiseon-refactor/
+Link to the live site: https://jrossi425.github.io/Portfolio-Web-App/
 
 ![image](https://user-images.githubusercontent.com/123151991/219153842-1e8e0350-929d-4a42-a994-66998b7ce1a3.png)
 ![image](https://user-images.githubusercontent.com/123151991/219155676-bb30837a-75e5-4933-901b-a524b511611e.png)
