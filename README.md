@@ -14,6 +14,7 @@ To provide users with a website application that informs them of my project hist
 
 Link to the live site: https://jrossi425.github.io/horiseon-refactor/
 
+![image](https://user-images.githubusercontent.com/123151991/219153842-1e8e0350-929d-4a42-a994-66998b7ce1a3.png)
 
 
 ## Credits
